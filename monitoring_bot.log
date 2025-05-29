@@ -1,0 +1,7 @@
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:Пользователь Welcome797 начал сессию через /start
+INFO:root:📧 Пользователь Welcome797 ввёл текст для поиска email: цумтсолд
+INFO:root:📭 Email-адреса не найдены для пользователя Welcome797
+INFO:root:Пользователь Welcome797 проверяет пароль на сложность
+INFO:telegram.ext.updater:Received signal 2 (SIGINT), stopping...
+INFO:apscheduler.scheduler:Scheduler has been shut down
